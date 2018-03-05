@@ -1,8 +1,8 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Baloo", 10, "M", "Black", "Cuddly", 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Brother", 3, "M", "Brown", "Sweet", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Pooh", 2, "M", "Grizzly", "Kind", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 10, "M", "Brown", "Angry", 0);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 2, "F", "Black", "Loud", 0);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 4, "M", "Grizzly", "Loving", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 6, "F", "Black", "Sluggish", 0);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 16, "M", "Grizzly", "Hungry", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sarah", 9, "F", "Brown", "Grumpy", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tanya", 6, "F", "Black", "Loud", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Smokey", 4, "M", "Grizzly", "Dopey", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Katie", 6, "F", "Polar", "Sleepy", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 11, "M", "Polar", "Hungry", 0);
